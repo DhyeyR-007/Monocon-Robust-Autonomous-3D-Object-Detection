@@ -43,6 +43,7 @@ python test.py  --config_file       [FILL]      # Config file (.yaml file)
                 --save_dir          [FILL]      # Path where visualization results will be saved to
 
 ```
+Our pretrained model and weights as indicated by the name CFG_OUTPUT_DIR folder in the file config/monocon_configs.py is attached here ("https://drive.google.com/drive/folders/1FtXnd757Yw8WcRxqFdX8qy8vGostFYDM?usp=sharing")
 ``` 
 Monocon_NA565
 ├── DevKit
