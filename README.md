@@ -1,12 +1,9 @@
 # Monocon_NA565
 
-THis is out final project submission for ROB 535: Self-Driving cars
+This is out final project submission for ROB 535: Self-Driving cars
 
-
-
-
-**Setup**
-
+## Setup
+```
 # [Step 1]: Create new conda environment and activate.
 #           Set [ENV_NAME] freely to any name you want. (Please exclude the brackets.)
 conda create --name [ENV_NAME] python=3.8
@@ -27,9 +24,9 @@ pip install -r requirements.txt
 # [Step 5]
 conda install cudatoolkit
 
+```
 
-
-**Train, Eval, and Test **(Training, evaluation and testing are to be followed according to this repository "https://github.com/minghanz/monocon_na565") <br />
+## Train, Eval, and Test(Training, evaluation and testing are to be followed according to this repository "https://github.com/minghanz/monocon_na565") <br />
 cd monocon_na565 <br />
 python train.py <br />
 
@@ -45,7 +42,7 @@ python test.py  --config_file       [FILL]      # Config file (.yaml file)
                 --save_dir          [FILL]      # Path where visualization results will be saved to
 
 
-
+``` 
 **Monocon_NA565**
 ├── DevKit
 │   ├── ExamplePrediction.txt
@@ -174,4 +171,4 @@ python test.py  --config_file       [FILL]      # Config file (.yaml file)
 │       ├── best.pth
 │       └── config.yaml
 └── test.html
-
+```
