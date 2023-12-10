@@ -27,6 +27,7 @@ conda install cudatoolkit
 ```
 
 ## Train, Eval, and Test(Training, evaluation and testing are to be followed according to this repository "https://github.com/minghanz/monocon_na565") <br />
+```
 cd monocon_na565 <br />
 python train.py <br />
 
@@ -41,9 +42,9 @@ python test.py  --config_file       [FILL]      # Config file (.yaml file)
                 --gpu_id            [Optional]  # Index of GPU to use for testing (Default: 0)
                 --save_dir          [FILL]      # Path where visualization results will be saved to
 
-
+```
 ``` 
-**Monocon_NA565**
+Monocon_NA565
 ├── DevKit
 │   ├── ExamplePrediction.txt
 │   ├── FinalData
