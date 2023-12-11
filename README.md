@@ -1,6 +1,8 @@
 # Monocon_NA565
 
-This is out final project submission for ROB 535: Self-Driving cars
+This is out final project submission for ROB 535 / MECHENG 599/ NAVARCH 565/ EECS 498: Self Driving Cars: Perception and Control
+Team: Dhyey Manish Rajani, Nitin Jotwani, Surya Pratap Singh
+Contact: {drajani, njotwani, suryasin}@umich.edu
 
 ## Setup
 ```
